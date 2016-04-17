@@ -13,7 +13,7 @@ and type:
 ```
 cd
 cd Desktop
-git clone https://github.com/andreww/2015-08-26-leeds-bash.git
+git clone https://github.com/ARCLeeds/2016-04-18-leeds-bash.git
 cd 2015-08-26-leeds-bash
 ```
 
@@ -21,7 +21,7 @@ We will then try to work through the material
 together with time set asside for the following 
 exercises.
 
-## Excercise 1
+## Exercise 1
 
 1. Create a directory for your work inside the
 `data/users` directory. You should use your name
@@ -39,7 +39,7 @@ you. Once you have finished please attach the
 green sticky note to your monitor. If you get stuck 
 attach the red sticky note.
 
-## Excercise 2
+## Exercise 2
 
 Write a short pipeline to count the total number
 of hydrogen atoms in all the pbd files in your
@@ -75,7 +75,7 @@ Total:       27
 $
 ```
 
-## Excercise 4
+## Exercise 4
 
 Generalise the count_carbon.sh script to take
 (as the first argument) an element symbol to 
@@ -96,3 +96,9 @@ If you get stuck, you may find it useful to
 explore how the `arguments_example.sh` 
 script (in `data/solutions/`) works with different 
 numbers of arguments.
+
+
+## More detailed exercises
+
+If the pace of these exercises is too fast (or too slow) then take a look at 
+these exercises and these solutions.
