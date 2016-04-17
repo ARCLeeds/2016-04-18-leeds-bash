@@ -14,7 +14,7 @@ and type:
 cd
 cd Desktop
 git clone https://github.com/ARCLeeds/2016-04-18-leeds-bash.git
-cd 2015-08-26-leeds-bash
+cd 2016-04-18-leeds-bash
 ```
 
 We will then try to work through the material
